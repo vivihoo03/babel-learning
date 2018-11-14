@@ -1,0 +1,7 @@
+什么是babel? https://babel.docschina.org/docs/en/
+
+使用babel方法： https://www.jianshu.com/p/3b27dfc6785c
+
+结合webapck使用：https://babel.docschina.org/setup#installation
+
+https://jsonplaceholder.typicode.com/
